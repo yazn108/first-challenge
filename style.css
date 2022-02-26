@@ -1,0 +1,395 @@
+div{border: 20px solid #827C73;
+		 	 	background-color: #EBE2CF;
+		   		width: 96%;
+		     	height: 800px;
+	     			position: relative;
+		      		top: 80px;}
+input[type="button"]{
+				position: absolute;
+	  		left: 85%;
+		  		top: 10px;
+   				background-color:#EBE2CF ;
+		    		border: none;
+				box-shadow: black 3px 3px 5px 2px;}
+h3{position: absolute;
+	  		top: -10px;
+		  		left: 15px;}
+.ol-1{position: absolute;
+		    		left: 150px;
+	     			top: -60px;
+	      			list-style-image: url('https://api.iconify.design/ci/menu-alt-03.svg?width=30&flip=vertical');
+			       	font-size: 50px;}
+.span-1{color: #CBC1B3;
+		      		position: absolute;
+			        	left: 25%;
+			         	top: 15px;}
+.span-2{color: #CBC1B3;
+			      	position: absolute;
+				       left: 35%;
+			         	top: 15px;}
+.span-3{color: #23221F;
+		      		position: absolute;
+       				left: 45%;
+	        			top: 15px;
+	         			font-weight: bold ;}
+.span-4{background-color: #ECC2AA;
+	      		 width: 50px;
+	       		 height: 20px;
+				        position: absolute;
+				         left: 47%;
+		          		top: 15px;}
+.span-5{color: #CBC1B3;
+		      		position: absolute;
+			       	left: 60%;
+			        	top: 15px;}
+.h1-1{position: absolute;
+				   top: 20%;
+			     left: 40%;
+			     	letter-spacing: 1px;}
+.h1-2{position: absolute;
+		    		top: 22%;
+		     		left:53%;
+		       		background-color: #5AA7FB;
+		         	width: 90px;
+          			height: 20px;}
+.ol-2{list-style-image: url('https://api.iconify.design/eva/search-outline.svg?width=30');
+			    	position: absolute;
+				    top: 32%;
+				     left: 5%;}
+input[type="search"]{
+				position: absolute;
+			 	top: 35%;
+				  left: 10%;
+			    	width: 10%;}
+.span-6{color: #CBC1B3;
+				      position: absolute;
+			        	left: 25%;
+		         		top: 35%;}
+
+.span-7{
+				
+				color: black;
+				position: absolute;
+				left: 38%;
+				top: 35%;
+				font-size: 10px;
+				font-weight: bold ;
+}
+
+
+.span-8{
+				
+				color: #CBC1B3;
+				position: absolute;
+				left: 55%;
+				top: 35%;
+				
+}
+
+.span-9{
+				
+				color: #CBC1B3;
+				position: absolute;
+				left: 65%;
+				top: 35%;
+				
+}
+
+.span-10{
+				
+				color: #CBC1B3;
+				position: absolute;
+				left: 75%;
+				top: 35%;
+				
+}
+
+
+.span-11{
+				
+				color: #CBC1B3;
+				position: absolute;
+				left: 83%;
+				top: 35%;
+				
+}
+
+.fieldset-1{
+				position: absolute;
+				top: 40%;
+				right: 10px;
+			font-weight: bold ;
+			width: 400px;
+}
+.img-1{
+				width: 320px;
+				height: 200px;
+				position: absolute;
+				top: 20px;
+				left: 10px;
+}
+.fieldset-2{
+				
+				width: 300px;
+				height: 170px;
+}
+
+.p-1{
+				color: #CBC1B3;
+}
+
+.b-1{color: black;
+border-bottom: green solid 1px;
+}
+
+.fieldset-3{
+				width: 10px;
+				height: 15px;
+				position: absolute;
+				right: 15px;
+				top: 80px;
+}
+
+.span-13{
+		background-color: #F1BEA3;
+		width:35px;
+		height: 35px;
+		position: absolute;
+		top: -7px;
+		right: 4px;
+}
+
+.img-2{
+				position: absolute;
+				top: 4px;
+				left: 4px;
+}
+
+
+.fieldset-4{
+background-color: #EEE2CE;
+				width: 10px;
+				height: 15px;
+				position: absolute;
+				right: 15px;
+				top: 160px;
+				box-shadow: 2px 1px 1px 1px black;
+}
+
+
+.img-3{
+				position: absolute;
+				top: 4px;
+				left: 4px;
+}
+
+.span-14{
+		background-color: #F5E39D;
+		width: 60px;
+		height: 25px;
+		position: absolute;
+		top: 125px;
+		right: 22px;
+}
+
+.b-2{
+position: absolute;
+				right: 10px;
+				top: 4px;
+}
+.span-15{
+				background-color:#F5E17B ;
+				width: 80px;
+				height: 10px;
+				position: absolute;
+			
+				left: 105px;
+				bottom: 142px;
+				
+		
+}
+
+.b-3{
+				position: absolute;
+				left: 1px;
+				bottom: 10%;
+}
+
+.img-4{
+				width: 40px;
+				height: 40px;
+}
+.span-16{
+				position: absolute;
+				bottom: 30px;
+				left: 80px;
+}
+.span-17{
+color: #D4C6B5;
+font-size: 10px;
+				position: absolute;
+				left: 80px;
+				bottom: 15px;
+}
+
+.img-5{
+				position: absolute;
+				right: 80px;
+				bottom: 20px;
+}
+.span-18{
+display: block;
+				background-color: black;
+				height: 25px;
+				width: 1px;
+				position: absolute;
+				right: 60px;
+				bottom: 20px;
+}
+.img-6{
+				position: absolute;
+				right: 20px;
+				bottom: 20px;
+}
+
+.fieldset-5{
+				width: 200px;
+				height: 130px;
+				position: absolute;
+				bottom: 90px;
+				left: 230px;
+}
+
+.p-2{
+				position: absolute;
+				bottom: 20px;
+				left: 45%;
+			
+}
+.span-19{
+
+width: 250px;
+height: 40px;
+				border-bottom: dotted 2px green ;
+				position: absolute;
+				bottom: 40px;
+				left: 15%;
+}
+.img-7{
+				width: 225px;
+				height: 150px;
+				position: absolute;
+				bottom: 5px;
+				right: 5px;
+}
+.fieldset-6{
+				width: 200px;
+				height: 130px;
+				position: absolute;
+				bottom: 280px;
+				left: 20px;
+}
+.img-8{
+				width: 225px;
+				height: 150px;
+				position: absolute;
+				bottom: 5px;
+				right: 5px;
+}
+
+.h2-1{
+				position: absolute;
+				top: 37%;
+				left: 50px;
+}
+.span-20{
+
+				width: 180px;
+height: 20px;
+				border-bottom: double 2px #5AA7FB ;
+				position: absolute;
+				top: 39%;
+				left: 30%;
+}
+.span-21{
+				position: absolute;
+				top: 50%;
+				left: 30%;
+				font-size: 20px;
+				font-weight: bold;
+				border-left:  solid 2px green;
+				
+}
+.b-4{
+				background-color:#5AA7FB ;
+}
+
+.span-22{
+
+				width: 180px;
+height: 20px;
+				border-bottom: solid 2px black ;
+				position: absolute;
+				top: 57%;
+				left: 30%;
+}
+
+.img-9{
+				width: 40px;
+				height: 40px;
+				position: absolute;
+				bottom: 33%;
+				left: 30%;
+}
+.span-23{
+				position: absolute;
+				bottom: 35%;
+				left: 35%;
+}
+.span-24{
+color: #D4C6B5;
+font-size: 15px;
+				position: absolute;
+				left: 35%;
+				bottom: 33%;
+}
+
+
+
+.img-10{
+				width: 40px;
+				height: 40px;
+				position: absolute;
+				bottom: 9%;
+				left: 3%;
+}
+.span-25{
+				position: absolute;
+				bottom: 20%;
+				left: 3%;
+				border-left:  solid 2px #5AA7FB;
+}
+.span-26{
+background-color: green;
+}
+.span-27{
+				width: 180px;
+height: 20px;
+				border-bottom: solid 2px black ;
+				position: absolute;
+				bottom: 17%;
+				left: 3%;
+}
+
+.span-28{
+				position: absolute;
+				bottom: 11%;
+				left: 8%;
+}
+.span-29{
+color: #D4C6B5;
+font-size: 15px;
+				position: absolute;
+				left: 8%;
+				bottom: 9%;
+}
